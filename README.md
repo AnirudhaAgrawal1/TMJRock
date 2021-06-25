@@ -131,6 +131,9 @@ Female <input type='radio' name='gender' id='fe' value='F'>&nbsp;&nbsp;&nbsp;
 </html>
 ```
 #### Output
+
+![Screenshot (5)](https://user-images.githubusercontent.com/76853693/123473669-81308f80-d616-11eb-8244-1b2202c3daba.png)
+
 ------
 #### Accordian Pane
 ````
@@ -206,6 +209,7 @@ Female <input type='radio' name='gender' id='fe' value='F'>&nbsp;&nbsp;&nbsp;
 
 ````
 #### Output
+![Screenshot (5)](https://user-images.githubusercontent.com/76853693/123473689-8b528e00-d616-11eb-9fc1-9beb94c5ae0c.png)
 
 ---------
 
@@ -259,4 +263,6 @@ Ujjain is the city of GODS
 </html>
 ````
 #### Output
+![Screenshot (7)](https://user-images.githubusercontent.com/76853693/123473710-93123280-d616-11eb-932d-27d7ecb7e3fa.png)
+
 --------
