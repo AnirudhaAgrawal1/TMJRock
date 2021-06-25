@@ -209,7 +209,8 @@ Female <input type='radio' name='gender' id='fe' value='F'>&nbsp;&nbsp;&nbsp;
 
 ````
 #### Output
-![Screenshot (5)](https://user-images.githubusercontent.com/76853693/123473689-8b528e00-d616-11eb-9fc1-9beb94c5ae0c.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/76853693/123473814-b63ce200-d616-11eb-8b44-09d3fa3bcb3e.png)
+
 
 ---------
 
