@@ -7,7 +7,7 @@ A JavaScript framework by which the web developer creates a responsive website e
 3. Accordian Pane
 4. Modal View
 
-## How to use this framework
+## How to set up this framework?
 Download the TMJRock.js, TMJRock.css file and place in your working directory, then include both the files in your html file.
 ```
 <script src='js/TMJRock.js'></script>
@@ -16,7 +16,7 @@ Download the TMJRock.js, TMJRock.css file and place in your working directory, t
 <link rel='stylesheet' type='text/css' href='css/TMJRock.css'>
 ```
 
-## How to use this framework
+## How to use this framework?
 
 #### AJAX Request
 
